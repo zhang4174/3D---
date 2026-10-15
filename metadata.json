@@ -1,0 +1,6 @@
+{
+  "name": "Gesture 3D Model Viewer",
+  "description": "High-performance gesture-controlled 3D GLB/model viewer with pure white background, real-time hand tracking, and 360-degree interactive manipulation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
